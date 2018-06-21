@@ -14,8 +14,12 @@ Output: 3
 Explanation: transactions = [buy, sell, cooldown, buy, sell]
 ```
 ### Analysis
+
 *sell[i]* is the profit so far that on day *i* I don't have hold stock.
+
 *buy[i]* is the profit so far that on day *i* I have one hold stock.
 
+```
 sell[i] = max(sell[i-1], buy[i-1] + price)
 buy[i] = max(buy[i-1], sell[i-2] + price)
+```
