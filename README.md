@@ -1,2 +1,3 @@
 # notebook
-###### personal note about algorithms
+personal notebook
+[Writing on github](https://help.github.com/categories/writing-on-github/)
