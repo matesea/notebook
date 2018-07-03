@@ -5,8 +5,8 @@ personal notebook
 
 # extended data structure
 - Trie  
-....[insert & serach](https://www.geeksforgeeks.org/trie-insert-and-search/)  
-....[delete](https://www.geeksforgeeks.org/trie-delete/)
+[insert & serach](https://www.geeksforgeeks.org/trie-insert-and-search/)  
+[delete](https://www.geeksforgeeks.org/trie-delete/)
 
 # todo
 - Manacher’s Algorithm
