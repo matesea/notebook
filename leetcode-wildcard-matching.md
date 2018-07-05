@@ -1,5 +1,4 @@
-# Wildcard Matching
-### problem
+# problem
 implement wildcard pattern matching with support for '?' and '*'.
 ```
 '?' Matches any single character.
@@ -20,7 +19,7 @@ isMatch("ab", "?*") true
 isMatch("aab", "c*a*b") false
 ```
 
-### analysis
+# Analysis
 For each element in s  
 If *s==*p or *p == ? which means this is a match, then goes to next element s++ p++.  
 If p=='*', this is also a match, but one or many chars may be available, so let us save this *'s position and the matched s position.  
@@ -42,7 +41,7 @@ abed
 
 __Note that in char array, the last is NOT NULL, to check the end, use  "*p"  or "*p=='\0'".__
 
-### code
+# Code
 ```C++
 class Solution {
 public:
@@ -69,7 +68,7 @@ public:
     }
 };
 ```
-**Another approach**
+## Another approach
 DP
 ```C++
 class Solution {
@@ -94,6 +93,6 @@ public:
     }
 };
 ```
-### reference
+# reference
 [best solution](http://yucoding.blogspot.com/2013/02/leetcode-question-123-wildcard-matching.html)  
 http://www.cnblogs.com/grandyang/p/4401196.html
