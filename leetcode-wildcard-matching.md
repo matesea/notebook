@@ -42,6 +42,8 @@ abed
 __Note that in char array, the last is NOT NULL, to check the end, use  "*p"  or "*p=='\0'".__
 
 # Code
+Time complexity: O(m*n)
+space complexity: O(1)
 ```C++
 class Solution {
 public:
@@ -69,7 +71,8 @@ public:
 };
 ```
 ## Another approach
-DP
+DP  
+time/space complexity: O(n*m)
 ```C++
 class Solution {
 public:
