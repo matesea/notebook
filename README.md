@@ -16,6 +16,7 @@ personal notebook for algorithm and problems
 - [palindrome partitioning](leetcode-palindrome-partitioning.md)
 - [russian doll envelopes](leetcode-russian-doll-envelopes.md)
 - [the skyline problem](leetcode-the-skyline-problem.md)
+- [trapping rain water](leetcode-trapping-rain-water.md)
 - [wiggle sort II](leetcode-wiggle-sort-ii.md)
 - [wildcard matching](leetcode-wildcard-matching.md)
 - [word laddder I & II](leetcode-word-ladder.md)
