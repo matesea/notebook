@@ -110,6 +110,26 @@ public:
 };
 ```
 
+4. stack approach
+```C++
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        stack<int> st;
+        int i = 0, res = 0, n = height.size();
+        while (i < n) {
+            if (st.empty() || height[i] <= height[st.top()]) {
+                st.push(i++);
+            } else {
+                int t = st.top(); st.pop();
+                if (st.empty()) continue;
+                res += (min(height[i], height[st.top()]) - height[t]) * (i - st.top() - 1);
+            }
+        }
+        return res;
+    }
+};
+```
 # reference
 https://leetcode.com/problems/trapping-rain-water/discuss/17357/Sharing-my-simple-c++-code:-O(n)-time-O(1)-space  
 http://www.cnblogs.com/grandyang/p/4402392.html  
