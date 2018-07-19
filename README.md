@@ -17,6 +17,7 @@ personal notebook for algorithm and problems
 - [russian doll envelopes](leetcode-russian-doll-envelopes.md)
 - [the skyline problem](leetcode-the-skyline-problem.md)
 - [trapping rain water](leetcode-trapping-rain-water.md)
+- [trapping rain water 2](leetcode-trapping-rain-water-ii.md)
 - [wiggle sort II](leetcode-wiggle-sort-ii.md)
 - [wildcard matching](leetcode-wildcard-matching.md)
 - [word laddder I & II](leetcode-word-ladder.md)
