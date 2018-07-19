@@ -26,7 +26,23 @@ personal notebook for algorithm and problems
 - Trie  
   - [insert & serach](https://www.geeksforgeeks.org/trie-insert-and-search/)  
   - [delete](https://www.geeksforgeeks.org/trie-delete/)
+- Segment tree
+  - [tutorial](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
+  - [application 1: sum of given range](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
+  - [application 2: range minimum query](https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/)
 
-# todo
-- Manacher’s Algorithm
-- Suffix tree
+# special topics
+- [range minimum query](https://www.geeksforgeeks.org/range-minimum-query-for-static-array/)
+  - square root decomposition
+  - sparse table
+  - segment tree
+- pattern search
+  - KMP Algorithm
+  - Rabin Karp Algorithm
+  - Finite Automata based Algorithm
+  - Boyer Moore Algorithm
+  - [suffix tree](https://www.geeksforgeeks.org/pattern-searching-set-8-suffix-tree-introduction/)
+- [longest palindromic substring](https://en.wikipedia.org/wiki/Longest_palindromic_substring)
+  - [Naive O(n<sup>3</sup>) solution](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/)
+  - [expand from given center, O(<sup>2</sup>)](https://www.geeksforgeeks.org/longest-palindromic-substring-set-2/)
+  - [Manacher's algorithm, O(n) solution](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/)
