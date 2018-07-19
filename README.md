@@ -23,7 +23,7 @@ personal notebook for algorithm and problems
 - [word laddder I & II](leetcode-word-ladder.md)
 
 # extended data structure
-- Trie  
+- Trie
   - [insert & serach](https://www.geeksforgeeks.org/trie-insert-and-search/)  
   - [delete](https://www.geeksforgeeks.org/trie-delete/)
 - Segment tree
@@ -33,6 +33,9 @@ personal notebook for algorithm and problems
 
 # special topics
 - [iterative tree traversal](pre-in-post-order-traveral.md)
+- iteratively permutation
+  - [Steinhaus–Johnson–Trotter algorithm](https://en.wikipedia.org/wiki/Steinhaus–Johnson–Trotter_algorithm)  
+  [GeeksForGeeks](https://www.geeksforgeeks.org/johnson-trotter-algorithm/)
 - [range minimum query](range-sum-minimum-query.md)
   - square root decomposition
   - sparse table
