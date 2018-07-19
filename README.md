@@ -32,7 +32,8 @@ personal notebook for algorithm and problems
   - [application 2: range minimum query](https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/)
 
 # special topics
-- [range minimum query](https://www.geeksforgeeks.org/range-minimum-query-for-static-array/)
+- [iterative tree traversal](pre-in-post-order-traveral.md)
+- [range minimum query](range-sum-minimum-query.md)
   - square root decomposition
   - sparse table
   - segment tree
