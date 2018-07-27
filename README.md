@@ -14,13 +14,16 @@ personal notebook for algorithm and problems
 - [maximal rectangle](leetcode-maximal-rectangle.md)
 - [palindrome partitioning II](leetcode-palindrome-partitioning-ii.md)
 - [palindrome partitioning](leetcode-palindrome-partitioning.md)
+- [remove boxes](leetcode-remove-boxes.md)
 - [russian doll envelopes](leetcode-russian-doll-envelopes.md)
+- [sum of distances in tree](leetcode-sum-of-distances-in-tree.md)
 - [the skyline problem](leetcode-the-skyline-problem.md)
 - [trapping rain water](leetcode-trapping-rain-water.md)
 - [trapping rain water 2](leetcode-trapping-rain-water-ii.md)
 - [wiggle sort II](leetcode-wiggle-sort-ii.md)
 - [wildcard matching](leetcode-wildcard-matching.md)
 - [word laddder I & II](leetcode-word-ladder.md)
+
 
 # extended data structure
 - Trie
