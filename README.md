@@ -6,6 +6,7 @@ personal notebook for algorithm and problems
 - [best time to buy & sell stock with bounded transactions](leetcode-best-time-to-buy-and-sell-stock-with-bounded-transactions.md)
 - [best time to buy & sell stock with cooldown](leetcode-best-time-to-buy-and-sell-stock-with-cooldown.md)
 - [burst ballons](leetcode-burst-ballons.md)
+- [cherry pickup](leetcode-cherry-pickup.md)
 - [jump game](leetcode-jump-game.md)
 - [largest rectangle in histogram](leetcode-largest-rectangle-in-histogram.md)
 - [longest substring with at least k repeating characters](leetcode-longest-substring-with-at-least-k-repeating-characters.md)
