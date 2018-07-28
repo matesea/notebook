@@ -25,7 +25,6 @@ personal notebook for algorithm and problems
 - [wildcard matching](leetcode-wildcard-matching.md)
 - [word laddder I & II](leetcode-word-ladder.md)
 
-
 # extended data structure
 - Trie
   - [insert & serach](https://www.geeksforgeeks.org/trie-insert-and-search/)  
@@ -34,6 +33,12 @@ personal notebook for algorithm and problems
   - [tutorial](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
   - [application 1: sum of given range](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
   - [application 2: range minimum query](https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/)
+- Disjoint set
+- Binary indexed tree
+  - [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
+  - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+- Suffix tree
 
 # special topics
 - [iterative tree traversal](pre-in-post-order-traveral.md)
