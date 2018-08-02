@@ -69,3 +69,45 @@ public static void sort(Comparable[] a)
   }
 }
 ```
+
+# mergesort
+- practical improvements
+  - cut off to insertion sort for 7(or less) elements
+  - stopped if sorted already
+  - swapping the roles of auxiliary & target array to save copy
+  - implemented in bottom-up way, but slower than top-down approach.  
+    len = pow(2, i) for i = 0 - lgN
+
+# quicksort
+- In some implemetation time complexity go quadratic if array
+  - sorted or reverse sorted
+  - many duplicates
+- practical improvements
+  - insertion sort small subarrays(<10 elements)
+  - median of three
+    - compare lo, hi, and mid elements and pick the median one as pivot
+    - reduce comparisons by 14%
+- quick select: find kth element in array  
+  utilize partition part to find element j can partition array and the smaller half has exactly k elements
+
+# 3-way quicksort
+- use 3-way partitioning to build 3 segments:  
+  smaller than pivot, equal, larger than
+- better to handle the case with many duplicates
+
+# heapsort
+- heapsort is optimal for both time & space, but
+  - inner loop longer than quicksort's
+  - makes poor use of cache memory
+  - Not stable
+
+# sorting algorithms summary
+||inplace?|stable?|worst|average|best|remark|
+|---|---|---|---|---|---|---|
+|selection|x||N<sup>2</sup>/2|N<sup>2</sup>/2|N<sup>2</sup>/2|N exchanges|
+|insertion|x|x|N<sup>2</sup>/2|N<sup>2</sup>/4|N|use for small N or partially ordered|
+|shell|x||?|?|N|tight code, subquadratic|
+|quick|x||N<sup>2</sup>/2|2NlnN|NlgN|NlogN probabilistic quarantee fastest in practice|
+|3-way quick|x||N<sup>2</sup>/2|2NlnN|N|improves quicksort in presence of duplicate keys|
+|merge||x|NlgN|NlgN|NlgN|NlogN guarantee, stable|
+|heap|x||2NlgN|2NlgN|NlgN|NlogN quarantee, in-place|
