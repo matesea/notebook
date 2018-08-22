@@ -25,6 +25,11 @@ personal notebook for algorithm and problems
 - [wildcard matching](leetcode/leetcode-wildcard-matching.md)
 - [word laddder I & II](leetcode/leetcode-word-ladder.md)
 
+# notes by categorary
+- [sorting](sorting.md)
+- [graph](graph.md)
+- [string](string.md)
+
 # extended data structure
 - Trie
   - [insert & serach](https://www.geeksforgeeks.org/trie-insert-and-search/)  
