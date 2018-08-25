@@ -62,12 +62,13 @@ personal notebook for algorithm and problems
   - sparse table
   - segment tree
 - pattern search
-  - KMP Algorithm
-  - Rabin Karp Algorithm
+  - refer [string](string.md)
   - Finite Automata based Algorithm
-  - Boyer Moore Algorithm
   - [suffix tree](https://www.geeksforgeeks.org/pattern-searching-set-8-suffix-tree-introduction/)
 - [longest palindromic substring](https://en.wikipedia.org/wiki/Longest_palindromic_substring)
   - [Naive O(n<sup>3</sup>) solution](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/)
   - [expand from given center, O(<sup>2</sup>)](https://www.geeksforgeeks.org/longest-palindromic-substring-set-2/)
   - [Manacher's algorithm, O(n) solution](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/)
+- [modular inverse](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
+  - Extended Euclidean algorithm
+  - Fermats's little theorem
