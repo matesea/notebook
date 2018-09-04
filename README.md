@@ -17,6 +17,7 @@ personal notebook for algorithm and problems
 - [palindrome partitioning](leetcode/leetcode-palindrome-partitioning.md)
 - [remove boxes](leetcode/leetcode-remove-boxes.md)
 - [russian doll envelopes](leetcode/leetcode-russian-doll-envelopes.md)
+- [split array largest sum](leetcode/leetcode-split-array-largest-sum.md)
 - [sum of distances in tree](leetcode/leetcode-sum-of-distances-in-tree.md)
 - [the skyline problem](leetcode/leetcode-the-skyline-problem.md)
 - [trapping rain water](leetcode/leetcode-trapping-rain-water.md)
