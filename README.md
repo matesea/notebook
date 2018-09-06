@@ -73,3 +73,11 @@ personal notebook for algorithm and problems
 - [modular inverse](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
   - Extended Euclidean algorithm
   - Fermats's little theorem
+
+# online resources
+- [演算法與資料結構](http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html)
+- [coding interview university](https://github.com/jwasham/coding-interview-university)
+- [Big-O cheat sheet](http://bigocheatsheet.com)
+- [Numbers Everyone Should Know](http://highscalability.com/numbers-everyone-should-know)
+- [How to Ace a system design interview](https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/)
+- [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
