@@ -26,6 +26,11 @@ personal notebook for algorithm and problems
 - [wildcard matching](leetcode/leetcode-wildcard-matching.md)
 - [word laddder I & II](leetcode/leetcode-word-ladder.md)
 
+# leetcode solutions
+- https://github.com/haoel/leetcode
+- https://github.com/soulmachine/leetcode
+- https://www.cnblogs.com/grandyang/p/4606334.html
+
 # notes by categorary
 - [sorting](sorting.md)
 - [graph](graph.md)
