@@ -87,3 +87,4 @@ personal notebook for algorithm and problems
 - [How to Ace a system design interview](https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/)
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 - [google interview university](https://github.com/yashk2810/google-interview-university)
+- [the art of programming chinese edition](https://github.com/julycoding/The-Art-Of-Programming-By-July/tree/master/ebook/zh)
