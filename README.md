@@ -88,3 +88,9 @@ personal notebook for algorithm and problems
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 - [google interview university](https://github.com/yashk2810/google-interview-university)
 - [the art of programming chinese edition](https://github.com/julycoding/The-Art-Of-Programming-By-July/tree/master/ebook/zh)
+
+# books
+- [Algorithms 4th edition](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [The Algorithm Design Manual, 2nd edition](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf)
+- [Programming Interviews Expoosed Secrets to Landing Your Next Job](https://epdf.tips/download/programming-interviews-exposed-secrets-to-landing-your-next-job82472.html)
