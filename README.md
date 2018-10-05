@@ -54,6 +54,13 @@ personal notebook for algorithm and problems
   - [GeeksforGeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
   - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
 - Suffix tree
+- Splay tree: keep recently accessed element as root
+  - [search](https://www.geeksforgeeks.org/splay-tree-set-1-insert/)
+  - [insert](https://www.geeksforgeeks.org/splay-tree-set-2-insert-delete/)
+  - [delete](https://www.geeksforgeeks.org/splay-tree-set-3-delete/)
+- Skip list
+  - [introduction](https://www.geeksforgeeks.org/skip-list/)
+  - [insertion](https://www.geeksforgeeks.org/skip-list-set-2-insertion/)
 
 # special topics
 - shuffling
