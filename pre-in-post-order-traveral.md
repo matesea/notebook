@@ -1,13 +1,16 @@
 # iterative preorder tree traversal
-
+## method1: one stack
 1) create an empty stack and push root note to stack
 2) while stack isn't empty   
 ....a) pop an item from stack and process it   
 ....b) push the right child of this item into stack   
 ....c) push the left child of this item into stack
 
-# iterative inorder tree 
+## method 2: morris preorder traversal
+https://www.geeksforgeeks.org/morris-traversal-for-preorder/
 
+# iterative inorder tree 
+## method 1: one stack
 1) create an empty stack s  
 2) initialize current node as root  
 3) push the current node to s and set current = current->left until current is NULL
@@ -17,10 +20,12 @@
 ....c) go to 3)  
 5) if current is NULL, and stack is empty then we are done  
 
+## method 2:morris traversal
+https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/
+
 # iterative postorder tree traversal
 
 ## method 1: with two stack
-
 1) push root into first stack  
 2) loop while first stack is not empty  
 ....a) pop a node from first stack and push it into second stack  
@@ -31,7 +36,6 @@ pushing and popping into first stack is just like the stack in preorder traversa
 second stack is just to reverse its order
 
 ## method 2: with one stack
-
 1) create an empty stack  
 2) do followings while root is not NULL  
 ....a) push root's right child and then root to stack  
