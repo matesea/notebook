@@ -1,9 +1,9 @@
 # iterative preorder tree traversal
 
 1) create an empty stack and push root note to stack
-2) while stack isn't empty
-....a) pop an item from stack and process it
-....b) push the right child of this item into stack
+2) while stack isn't empty   
+....a) pop an item from stack and process it   
+....b) push the right child of this item into stack   
 ....c) push the left child of this item into stack
 
 # iterative inorder tree 
