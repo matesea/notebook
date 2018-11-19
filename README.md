@@ -88,6 +88,10 @@ personal notebook for algorithm and problems
 - [modular inverse](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
   - Extended Euclidean algorithm
   - Fermats's little theorem
+- Set cover
+  - problem: [Shortest Superstring](https://www.geeksforgeeks.org/shortest-superstring-problem/)
+  - [Transform into Set Cover](https://www.geeksforgeeks.org/shortest-superstring-problem-set-2-using-set-cover/)
+  - [Greedy Approximate Algorithm](https://www.geeksforgeeks.org/set-cover-problem-set-1-greedy-approximate-algorithm/)
 
 # online resources
 - [演算法與資料結構](http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html)
