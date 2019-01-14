@@ -15,6 +15,43 @@
 
 # substring search
 - Knuth-Morris-Pratt
+  - [geeksforgeeks](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+  - leetcode repeated string match, simple and beautiful application
+```C++
+class Solution {
+public:
+    int repeatedStringMatch(string A, string B) {
+        int m = A.size(), n = B.size();
+        vector<int> p(n,0);
+        int i = 1, j = 0;
+        for (; i < n;) {
+            if(B[j] == B[i])
+                p[i++] = ++j;
+            else if (j == 0)
+                i++;
+            else
+                j = p[j -1];
+        }
+
+        i = 0;
+        j = 0;
+        while(i < 2*m + n){
+            if (A[i%m] == B[j]){
+                i++;
+                j++;
+                if (j == n)
+                    return i%m ? i/m+1 : i/m;
+            } else if (j == 0)
+                i++;
+            else
+                j = p[j-1];
+        }
+        return -1;
+        
+    }
+};
+```
+  
 - Boyer-Moore
   - scan characters in pattern from right to left
   - can skip as many as M text chars when finding one not in the pattern
