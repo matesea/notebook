@@ -19,6 +19,7 @@
 - [410. split array largest sum](leetcode/leetcode-split-array-largest-sum.md)
 - [411. minimum unique word abbreviation](leetcode/leetcode-minimum-unique-word-abbreviation.md)
 - [420. strong password checker](leetcode/leetcode-strong-password-checker.md)
+- [483. Smallest Good Base](leetcode/leetcode-smallest-good-base.md)
 - [546. remove boxes](leetcode/leetcode-remove-boxes.md)
 - [741. cherry pickup](leetcode/leetcode-cherry-pickup.md)
 - [834. sum of distances in tree](leetcode/leetcode-sum-of-distances-in-tree.md)
