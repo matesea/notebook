@@ -22,6 +22,7 @@
 - [483. Smallest Good Base](leetcode/leetcode-smallest-good-base.md)
 - [486. predict the winner](leetcode/leetcode-predict-the-winner.md)
 - [493. reverse pairs](leetcode/leetcode-reverse-pairs.md)
+- [517. super washing machine](leetcode/leetcode-super-washing-machine.md)
 - [546. remove boxes](leetcode/leetcode-remove-boxes.md)
 - [741. cherry pickup](leetcode/leetcode-cherry-pickup.md)
 - [834. sum of distances in tree](leetcode/leetcode-sum-of-distances-in-tree.md)
