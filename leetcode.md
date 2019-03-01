@@ -24,5 +24,6 @@
 - [493. reverse pairs](leetcode/leetcode-reverse-pairs.md)
 - [517. super washing machine](leetcode/leetcode-super-washing-machine.md)
 - [546. remove boxes](leetcode/leetcode-remove-boxes.md)
+- [621. task scheduler](leetcode/leetcode-task-scheduler.md)
 - [741. cherry pickup](leetcode/leetcode-cherry-pickup.md)
 - [834. sum of distances in tree](leetcode/leetcode-sum-of-distances-in-tree.md)
