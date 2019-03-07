@@ -27,3 +27,4 @@
 - [621. task scheduler](leetcode/leetcode-task-scheduler.md)
 - [741. cherry pickup](leetcode/leetcode-cherry-pickup.md)
 - [834. sum of distances in tree](leetcode/leetcode-sum-of-distances-in-tree.md)
+- [1000. minimum costs to merge stones](leetcode/leetcode-minimum-costs-to-merge-stones.md)
