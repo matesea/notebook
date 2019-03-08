@@ -40,6 +40,31 @@ The total cost was 25, and this is the minimum possible.
 - 2 <= K <= 30
 - 1 <= stones[i] <= 100
 
+# Analysis
+This issue is very interesting.
+Please follow reference links for the detailed explanations.
+Here only the most important idea is mentioned.
+
+- 3d DP
+dp[i][j][m] means the cost needed to merge stone[i] ~ stones[j] into m piles.
+(exactly m piles, which is very different from the 2d dp solution)
+
+Initial status dp[i][i][1] = 0 and dp[i][i][m] = infinity
+
+dp[i][j][1] = dp[i][j][k] + stonesNumber[i][j]
+dp[i][j][m] = min(dp[i][mid][1] + dp[mid + 1][j][m - 1]) for i <= mid < j
+
+- 2d DP
+stones[i] ~ stones[j] will merge as much as possible.
+
+Finally (j - i) % (K - 1) + 1 piles will be left.
+
+It's less than K piles and no more merge happens.
+
+dp[i][j] means the minimum cost needed to merge stones[i] ~ stones[j].
+
+- although time complexity is same but much better for space saving
+
 # Reference
 - https://leetcode.com/problems/minimum-cost-to-merge-stones/discuss/247567/JavaC%2B%2BPython-DP
 - https://leetcode.com/problems/minimum-cost-to-merge-stones/discuss/247657/JAVA-Bottom-Up-%2B-Top-Down-DP-With-Explaination
