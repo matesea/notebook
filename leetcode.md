@@ -26,6 +26,7 @@
 - [546. remove boxes](leetcode/leetcode-remove-boxes.md)
 - [621. task scheduler](leetcode/leetcode-task-scheduler.md)
 - [630. course schedule iii](leetcode/leetcode-course-schedule-iii.md)
+- [644. maximum average subarray ii](leetcode/leetcode-maximum-average-subarray-ii.md)
 - [741. cherry pickup](leetcode/leetcode-cherry-pickup.md)
 - [834. sum of distances in tree](leetcode/leetcode-sum-of-distances-in-tree.md)
 - [1000. minimum costs to merge stones](leetcode/leetcode-minimum-costs-to-merge-stones.md)
