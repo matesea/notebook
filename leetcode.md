@@ -29,6 +29,7 @@
 - [644. maximum average subarray ii](leetcode/leetcode-maximum-average-subarray-ii.md)
 - [646. maximum length of pair chain](leetcode/leetcode-maximum-length-of-pair-chain.md)
 - [659. split array into consecutive subsequences](leetcode/leetcode-split-array-into-consecutive-subsequences.md)
+- [665. non-decreasing array](leetcode/leetcode-non-decreasing-array.md)
 - [741. cherry pickup](leetcode/leetcode-cherry-pickup.md)
 - [834. sum of distances in tree](leetcode/leetcode-sum-of-distances-in-tree.md)
 - [1000. minimum costs to merge stones](leetcode/leetcode-minimum-costs-to-merge-stones.md)
