@@ -57,6 +57,28 @@ public:
 };
 ```
 
+Another solution, allow to modify the array:
+```C++
+class Solution {
+public:
+    bool checkPossibility(vector<int>& nums) {
+        bool ooo = false;
+        int n = nums.size();
+        for (int i = 0; i+1 < nums.size(); ++i) {
+            if (nums[i] <= nums[i+1]) continue;
+            if (ooo) return false;
+            ooo = true;
+            if (!i) nums[i] = nums[i+1];
+            else if (i+2 == n) nums[i+1] = nums[i];
+            else if (nums[i-1] <= nums[i+1])
+                nums[i] = nums[i-1];
+            else nums[i+1] = nums[i];
+        }
+        return true;
+    }
+};
+```
+
 # Reference
 - https://leetcode.com/problems/number-of-longest-increasing-subsequence/solution/
 - https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/107293/JavaC++-Simple-dp-solution-with-explanation
