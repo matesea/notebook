@@ -30,6 +30,7 @@ personal notebook for algorithm and problems
   - [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
   - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+  - [sample code](bit-st-sample.md)
 - Suffix tree
   - [Hackerearth tutorial](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-trees/tutorial/)
   - [geeksforgeeks search in suffix tree](https://www.geeksforgeeks.org/pattern-searching-using-suffix-tree/)
