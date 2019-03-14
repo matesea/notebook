@@ -19,7 +19,7 @@
 - [410. split array largest sum](leetcode/leetcode-split-array-largest-sum.md)
 - [411. minimum unique word abbreviation](leetcode/leetcode-minimum-unique-word-abbreviation.md)
 - [420. strong password checker](leetcode/leetcode-strong-password-checker.md)
-- [483. Smallest Good Base](leetcode/leetcode-smallest-good-base.md)
+- [483. smallest good base](leetcode/leetcode-smallest-good-base.md)
 - [486. predict the winner](leetcode/leetcode-predict-the-winner.md)
 - [493. reverse pairs](leetcode/leetcode-reverse-pairs.md)
 - [517. super washing machine](leetcode/leetcode-super-washing-machine.md)
