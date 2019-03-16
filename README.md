@@ -22,6 +22,9 @@ personal notebook for algorithm and problems
   - [application 1: sum of given range](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
   - [application 2: range minimum query](https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/)
   - [efficient implementation](https://www.geeksforgeeks.org/segment-tree-efficient-implementation/)
+  - lazy propagatin
+    - [GeeksForGeeks](https://www.geeksforgeeks.org/lazy-propagation-in-segment-tree/)
+    - [Hackerearth](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
 - [Disjoint set](https://www.geeksforgeeks.org/union-find/)
   - [two optimization to accelerate find & union](https://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/)
     - union by rank
