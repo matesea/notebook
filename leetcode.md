@@ -33,5 +33,6 @@
 - [673. number of longest increasing subsequence](leetcode/leetcode-number-of-longest-increasing-subsequence.md)
 - [689. maximum sum of 3 non-overlapping subarrays](leetcode/leetcode-maximum-sum-of-3-non-overlapping-subarrays.md)
 - [741. cherry pickup](leetcode/leetcode-cherry-pickup.md)
+- [782. transform to chessboard](leetcode/leetcode-transform-to-chessboard.md)
 - [834. sum of distances in tree](leetcode/leetcode-sum-of-distances-in-tree.md)
 - [1000. minimum costs to merge stones](leetcode/leetcode-minimum-costs-to-merge-stones.md)
