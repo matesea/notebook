@@ -36,6 +36,7 @@
 - [782. transform to chessboard](leetcode/leetcode-transform-to-chessboard.md)
 - [793. preimage size of factorial zeros function](leetcode/leetcode-preimage-size-of-factorial-zeros-function.md)
 - [801. minimum swaps to make sequences increasing](leetcode/leetcode-minimum-swaps-to-make-sequences-increasing.md)
-- [803.bricks falling when hit](leetcode/leetcode-bricks-falling-when-hit.md)
+- [803. bricks falling when hit](leetcode/leetcode-bricks-falling-when-hit.md)
+- [818. race car](leetcode/leetcode-race-car.md)
 - [834. sum of distances in tree](leetcode/leetcode-sum-of-distances-in-tree.md)
 - [1000. minimum costs to merge stones](leetcode/leetcode-minimum-costs-to-merge-stones.md)
